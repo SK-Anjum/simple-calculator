@@ -1,0 +1,20 @@
+{
+  "name": "anjum-simple-calculator",
+  "version": "1.0.0",
+  "description": "a simple calculator with transcript, nodejs and inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "anjum-simple-calculator": "^1.0.0",
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
